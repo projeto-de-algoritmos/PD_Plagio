@@ -17,16 +17,51 @@ Descreva os objetivos do seu projeto e como ele funciona.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+*Linguagem*: Python<br>
+*Framework*: flask<br>
 
+### Crie um ambiente em python 3
+```
+python3 -m venv env
+```
+
+### Ative o ambiente
+```
+source env/bin/activate
+
+```
+ou se estiver usando windows
+
+```
+ .\env\Scripts\activate
+
+```
+### Instale as dependencias
+```
+pip install -r requirements.txt
+```
+
+## Uso 
+
+### Após a instalação entre na pasta
+
+```
+cd src/
+```
+
+### Rode executando o comando
+```
+flask run
+```
+
+## Testes 
+
+Para rodar os testes basta executar o comando a baixo.
+```
+python -m unittest tests/unit/test_texto.py
+```
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
