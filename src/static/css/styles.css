@@ -1,0 +1,42 @@
+.body-wrapper{
+    background-color: rgb(44, 44, 63);
+}
+.wrapper{
+    align-content: center;
+    padding-top: 4vh;
+    margin: auto 12vw; 
+    width: 500px
+}
+.content-box{
+    padding-bottom: 1vh;
+
+    padding-top: 1vh;
+}
+.input-text{
+    height: 20vh;
+    width:40vw;
+}
+.content-label{
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.send-button{
+    font-weight: bolder;
+    padding: 1em;
+    width: 12vw;
+    border-radius: 12px;
+    background-color:  rgb(30, 116, 49);
+    color: aliceblue;
+    border-color: rgb(31, 165, 60);
+}
+.send-button:hover{
+    background-color:  rgb(33, 87, 37);
+    border-color: rgb(26, 121, 32);
+}
+.badge{
+    position: absolute;
+    left: 50vw;
+    top: 0;
+
+}
