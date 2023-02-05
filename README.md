@@ -11,10 +11,14 @@
 | 18/0119818  |  Felipe Boccardi Silva Agustini |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto Plagio é um programa para detectar plagio. O software consiste em um sistema que utiliza do algoritimo de alinhamento de sequencia para trazer a porcentagem de similaridade entre dois textos.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+## Video 
+
+https://user-images.githubusercontent.com/23579166/216804214-bc337bd1-b675-4a6e-83d3-9da00951b2f4.mp4
 
 ## Instalação 
 *Linguagem*: Python<br>
