@@ -28,13 +28,11 @@ python3 -m venv env
 ### Ative o ambiente
 ```
 source env/bin/activate
-
 ```
 ou se estiver usando windows
 
 ```
- .\env\Scripts\activate
-
+.\env\Scripts\activate
 ```
 ### Instale as dependencias
 ```
@@ -60,8 +58,3 @@ Para rodar os testes basta executar o comando a baixo.
 ```
 python -m unittest tests/unit/test_texto.py
 ```
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
