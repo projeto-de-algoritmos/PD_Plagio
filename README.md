@@ -14,7 +14,12 @@
 O projeto Plagio é um programa para detectar plagio. O software consiste em um sistema que utiliza do algoritimo de alinhamento de sequencia para trazer a porcentagem de similaridade entre dois textos.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![imagem 1](/public/1.png)
+
+![imagem 2](/public/2.png)
+
+![imagem 3](/public/3.png)
 
 ## Video 
 
